@@ -1,3 +1,3 @@
-## <p align="center">DDoS Attack & Protection Tools for Windows, Linux & Android</p>
+## <p align=“center”>适用于Windows，Linux和Android的DDoS攻击和保护工具</p>
 
-For Educational Purposes Only.. **you may not use all the tools and software for any illegal or unethical purpose; including activities which would give rise to criminal or civil liability.** i'm not responsible if you use these tools to attack servers you don't own and get caught.. USE ON YOUR OWN RISK.. ThankYou !!!
+仅用于教育目的。**您不得将所有工具和软件用于任何非法或不道德的目的;包括可能引起刑事或民事责任的活动。 如果您使用这些工具攻击您不拥有的服务器并被抓住，我不负责任。使用风险自负..谢谢！！！
